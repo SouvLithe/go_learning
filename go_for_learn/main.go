@@ -1,4 +1,4 @@
-package main
+package go_for_learn
 
 type Person struct {
 	Name string
